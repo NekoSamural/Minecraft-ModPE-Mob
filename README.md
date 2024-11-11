@@ -1,2 +1,2 @@
 # Minecraft-ModPE-Mob
-Mob-assistant with AI for the pocket version of the game minecraft.
+Developments for a bot in MCPE using JavaScript.
